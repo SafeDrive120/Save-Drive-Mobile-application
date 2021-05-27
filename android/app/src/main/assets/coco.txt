@@ -1,0 +1,7 @@
+car
+dog
+donkey
+heavytraffic
+motorcycles
+person
+rickshaw
